@@ -179,13 +179,8 @@ GitHubは連携しているアプリ/サービスがたくさん！
 
 * * *
 
-ヤッタルチャンの動画を貼る。
+[![ヤッタルチャン！](http://img.youtube.com/vi/emiJ1iGih6U/0.jpg)](https://www.youtube.com/watch?v=emiJ1iGih6U)
 
+* * *
 
-
-
-
-
-
-	
 
