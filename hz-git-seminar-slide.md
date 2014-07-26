@@ -281,7 +281,7 @@ http://mizuno0to.github.io/hz-git-seminar/ をみんなで編集しましょう
 - [sublime-markdown-extended](https://github.com/jonschlinkert/sublime-markdown-extended)
 - [sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended)
 
-##参考
+## 参考
 
 - [Sublime TextでMarkdownを快適に書くためのプラグインと設定 | OZPAの表4](http://ozpa-h4.com/2014/04/25/sublime-text-markdown/)
 - [Sublime TextでMarkdownを快適にする3つのパッケージ - 情報系大学生のWebメモ](http://webmem.hatenablog.com/entry/sublime-text-markdown)
