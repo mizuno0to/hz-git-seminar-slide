@@ -258,4 +258,9 @@ http://mizuno0to.github.io/hz-git-seminar/ をみんなで編集しましょう
 
 * * *
 
+# **かななんかわいい**
+
+![かななんかわいい](http://s-mileage.jp/img/profile/nakanishi-photo.png)
+
+* * *
 
