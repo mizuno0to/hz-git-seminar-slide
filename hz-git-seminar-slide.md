@@ -1,12 +1,12 @@
 
 <!-- かななん -->
-<!-- background: #2D82C4 -->
+<!-- background: #0497FF -->
 <!-- color: #ffd595 -->
-<!-- font: verdana -->
+<!-- font: din -->
 
 # **GitHubはSNS！**
 
-みんなでソーシャルコーディング・ヤッタルチャン！
+**みんなでソーシャルコーディング・ヤッタルチャン！**
 
 @mizuno0to
 
@@ -18,23 +18,25 @@
 
 # **アジェンダ**
 
-## GitHub はなにがいいの？
-## ソーシャルコーディング・ヤッタルチャン
-## コーディングしない人にも便利なGitHub
+* * *
+
+### GitHub はなにがいいの？
+### ソーシャルコーディング・ヤッタルチャン
+### コーディングしない人にも便利なGitHub
 
 * * *
 
 <!-- りなぷー -->
-<!-- background: #FBD333 -->
+<!-- background: #FFDB16 -->
 <!-- color: #fff -->
 
-# **GitHub はなにがいいの？**
+# **GitHubってなにがいいの？**
 
 * * *
 
-# ソーシャル
-# Markdown
-# 外部連携
+## **ソーシャル**
+## **Markdown**
+## **外部連携**
 
 * * *
 
@@ -52,27 +54,54 @@
 
 * * *
 
-いろんな人と一緒にコーディングできるおもろいサービスだよ。ってことかな！
+**いろんな人と一緒におもろいもん作っていける場所だよ。**ってことかな！
 
 * * *
 
-## ソーシャルらしいかる〜い使い方
+### **ソーシャルらしい愉快なコミュニケーション**
 
 * * *
 
 - LGTM http://www.lgtm.in
 - emoji http://www.emoji-cheat-sheet.com
 - Tiqav http://tiqav.com
-- ミサワ
+- ミサワ http://jigokuno.com
 
 * * *
 
-LTGMとかの例を画像で入れる予定
+![LGTM.in/g](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/lgtm.png)
 
 * * *
 
-テキストでのコミュニケーションが多くなるので、いろんな方法でコミュニケーションが固くなり過ぎないようにするのが大切です。
-もっと気軽にみんなでコーディング・ヤッタルチャン！
+![emoji-cheat-sheet](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/emoji.png)
+
+* * *
+
+![tiqav](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/tiqav.png)
+
+* * *
+
+![地獄のミサワ](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/misawa.png)
+
+* * *
+
+実践してみると
+
+* * *
+
+![ゆる〜いコミュニケーション](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/issue-example.png)
+
+* * *
+
+円滑なコミュニケーションがはかれてますね
+
+* * *
+
+テキストだけだとギクシャクしがちなんで、
+
+画像や絵文字を使ってゆるさも残しましょう。
+
+カタイ文章考えるの**[がんばらなくてもええねんで！！](https://www.youtube.com/watch?v=2V1Z5vFv8JM)**
 
 * * * 
 
@@ -102,42 +131,71 @@ LTGMとかの例を画像で入れる予定
 
 * * *
 
-# **Markdown はめんどくないです！
-
-わりと、ね。
+（ゴメンナサイ）
 
 * * *
 
-## Markdown のいいところ
+だけど
 
-- 楽に書ける
+* * *
+
+# **Markdown は（そこそこ）めんどくないんです！**
+
+* * *
+
+# **Markdown のいいところ**
+
+* * *
+
+- あんまりめんどくさくない
 - タグがすっきりなので管理しやすい
 - 最近のイケてるサービスがサポートしてる
-- **wiki記法やはてな記法を覚えられなかったボクが使えてる**
+- **wiki記法やはてな記法を覚えられなかった俺が使えてる**
 
 * * *
 
-## Markdown 使えるサービス・ツール
+### HTMLだと
+
+![Markupめんどくさい](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/html.png)
+
+* * *
+
+### Markdownなら！
+
+![Markdownならすっきり](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/markdown.png)
+
+* * *
+
+# Markdown は[「良い奴」](https://www.youtube.com/watch?v=o3yVG8y6oIc)ですね！
+
+* * *
+
+# Markdown 使えるサービス
+
+* * *
 
 - [GitHub](github.com)
 - [Qiita](http://qiita.com)
 - [Hexo](http://hexo.io)
-- **[Ruffnote](https://ruffnote.com)**
+- [Ruffnote](https://ruffnote.com)
 
 * * *
 
 # Ruffnote（ラフノート）
 
-みんなご存知・西小倉さんとこのサービス。
-社名も変わってます。
+みんなご存知・西小倉さんとこのサービス。社名も変わってます。
 
 * * *
 
-やっぱり文書は簡単に書けて、管理しやすいほうがいいね！
+やっぱり文書は簡単に書けて、管理しやすいほうがいいね☆（ゝω・）vｷｬﾋﾟ
 
 * * *
 
-ちなみに、世の中には[GitHubで雑誌・書籍を作る](http://www.slideshare.net/inao/githubkaigi)人たちもいるので（もちろん原稿はMarkdown！）、プログラマーじゃない人もGitHubでヤッタルチャンになるとええと思うよ。
+ちなみに、世の中には[GitHubで雑誌・書籍を作る](http://www.slideshare.net/inao/githubkaigi)人たちもいるよ（もちろん原稿はMarkdown！）。
+
+* * *
+
+だからな　みんなで Markdown [ヤッタルチャン](https://www.youtube.com/watch?v=emiJ1iGih6U)になるんやで〜
 
 * * *
 
@@ -158,7 +216,21 @@ GitHubは連携しているアプリ/サービスがたくさん！
 
 * * *
 
-先日送ったSlackの招待を参考にログインしてね☆ミ
+先日送ったメールを参考に[Slack](https://slack.com)にログインしてね☆ミ
+
+* * *
+
+# やってみよう 2
+
+* * *
+
+みんなで[HZ Git勉強会リポジトリー](https://github.com/mizuno0to/hz-git-seminar)にPull Requestしてみよう☆ミ
+
+* * *
+
+http://mizuno0to.github.io/hz-git-seminar/ をみんなで編集しましょう
+
+![hz-git-seminar GitHub Pages](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/hz-git-seminar-page.png)
 
 * * *
 
@@ -166,16 +238,19 @@ GitHubは連携しているアプリ/サービスがたくさん！
 
 * * *
 
-<!-- background: #065CB9 -->
-<!-- color: #fff -->
+<!-- かななん -->
+<!-- background: #0497FF -->
+<!-- color: #ffd595 -->
 
-ということで。
+ということで
 
 * * *
 
 みんなGitHubとMarkdownで
+
 **たのしく** **らく〜に**
-コーディング・ヤッタルチャン！
+
+ソーシャルコーディング・[ヤッタルチャン](https://www.youtube.com/watch?v=emiJ1iGih6U)！
 
 * * *
 
