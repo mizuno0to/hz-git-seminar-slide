@@ -264,6 +264,12 @@ http://mizuno0to.github.io/hz-git-seminar/ をみんなで編集しましょう
 
 * * *
 
+# **かななんかわいいよ**
+
+![かななんかわいいよ](http://livedoor.blogimg.jp/helloprocv/imgs/9/7/974281f0.jpg)
+
+* * *
+
 # 付録
 
 * * *
