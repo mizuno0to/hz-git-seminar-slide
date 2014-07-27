@@ -12,17 +12,32 @@
 
 * * *
 
-<!-- めいめい -->
-<!-- background: #4A8422 -->
-<!-- color: #fff -->
-
 # **アジェンダ**
 
 * * *
 
-### GitHub はなにがいいの？
+### GitHubってなに？
+### GitHubってなにがいいの？
 ### ソーシャルコーディング・ヤッタルチャン
-### コーディングしない人にも便利なGitHub
+
+* * *
+
+<!-- めいめい -->
+<!-- background: #4A8422 -->
+<!-- color: #fff -->
+
+# **GitHubってなに？**
+
+* * *
+
+> GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over six million people use GitHub to build amazing things together.
+
+[About - GitHub](https://github.com/about)より
+
+* * *
+
+**いろんな人と一緒におもろいもん作っていける場所だよ。**  
+ってことかな！
 
 * * *
 
@@ -48,13 +63,7 @@
 
 * * *
 
-> GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over six million people use GitHub to build amazing things together.
-
-[About - GitHub](https://github.com/about)より
-
-* * *
-
-**いろんな人と一緒におもろいもん作っていける場所だよ。**ってことかな！
+GitHubはIssueやPull Requests、コードレビューでテキストベースのコミュニケーションが頻繁に発生します。コミュニケーションを円滑に行うには、ソーシャルのノリでいくと捗ります。
 
 * * *
 
@@ -216,15 +225,29 @@ GitHubは連携しているアプリ/サービスがたくさん！
 
 * * *
 
+Slackの準備[ええか！？](https://www.youtube.com/watch?v=Iv0IW0tVzjc)
+
+* * *
+
 先日送ったメールを参考に[Slack](https://slack.com)にログインしてね☆ミ
 
-* * *
-
-# やってみよう 2
+![Slackの画面](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/slack.png)
 
 * * *
 
-みんなで[HZ Git勉強会リポジトリー](https://github.com/mizuno0to/hz-git-seminar)にPull Requestしてみよう☆ミ
+ね、便利でしょ？
+
+* * *
+
+<!-- かななん -->
+<!-- background: #0497FF -->
+<!-- color: #ffd595 -->
+
+# ソーシャルコーディング・[ヤッタルチャン](https://www.youtube.com/watch?v=emiJ1iGih6U)
+
+* * *
+
+### みんなで[HZ Git勉強会リポジトリー](https://github.com/mizuno0to/hz-git-seminar)にPull Requestしてみよう☆ミ
 
 * * *
 
@@ -234,23 +257,19 @@ http://mizuno0to.github.io/hz-git-seminar/ をみんなで編集しましょう
 
 * * *
 
-ね、楽しくて便利でしょ？
+みんなこれでソーシャルコーディング・[ヤッタルチャン](https://www.youtube.com/watch?v=emiJ1iGih6U)やな
 
 * * *
 
-<!-- かななん -->
-<!-- background: #0497FF -->
-<!-- color: #ffd595 -->
+これからも　みんな　GitHub　で
 
-ということで
-
-* * *
-
-みんなGitHubとMarkdownで
-
-**たのしく** **らく〜に**
+**たのしく** **ゆるゆる**
 
 ソーシャルコーディング・[ヤッタルチャン](https://www.youtube.com/watch?v=emiJ1iGih6U)！
+
+* * *
+
+# [ヤッタルチャン](https://www.youtube.com/watch?v=emiJ1iGih6U)
 
 * * *
 
