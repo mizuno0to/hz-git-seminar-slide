@@ -2,15 +2,15 @@
 
 みなさん、こんにちは。木原です。
 
-いよいよ来週、HZ Git勉強会を開催します。
+いよいよ来週、HZ Git勉強会を開催します。  
 ☆-(ノﾟДﾟ)八(ﾟДﾟ )ノｲｴｰｲ
 
-イベント概要と勉強会をスムーズに行うための準備についてご連絡します。
+イベント概要と勉強会をスムーズに行うための準備についてご連絡します。  
 ご確認ください。
 
 ## 開催日時と会場
 
-2014年8月2日（土）13:00〜18:00
+2014年8月2日（土）13:00〜18:00  
 @下北沢オープンソースカフェ
 
 **12:45 下北沢駅西口集合**
@@ -32,8 +32,8 @@
 > - [Mac](http://goo.gl/hCwicN)
 > - [Linux](http://goo.gl/hCwicN)
 
-また、当日は[GitHub](https://github.com/)と[Slack](https://slack.com/)を利用するので、事前にアカウント登録を行ってください。
-GitHubは[HZ Git勉強会用リポジトリ](https://github.com/mizuno0to/hz-git-seminar)を利用します。
+また、当日は[GitHub](https://github.com/)と[Slack](https://slack.com/)を利用するので、事前にアカウント登録を行ってください。  
+GitHubは[HZ Git勉強会用リポジトリ](https://github.com/mizuno0to/hz-git-seminar)を利用します。  
 SlackはDoorkeeper登録アドレスに招待を送るので、そちらを参考に登録してください。
 
 ## スケジュール
@@ -48,7 +48,7 @@ SlackはDoorkeeper登録アドレスに招待を送るので、そちらを参�
 
 ## 打ち上げ
 
-勉強会終了後にビアバー「[うしとら](http://blog.ushitora.jp/)」で打ち上げをします。
+勉強会終了後にビアバー「[うしとら](http://blog.ushitora.jp/)」で打ち上げをします。  
 ビールを楽しみましょう！
 
 ## 問い合わせ
