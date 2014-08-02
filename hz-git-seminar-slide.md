@@ -78,17 +78,25 @@ GitHubはIssueやPull Requests、コードレビューでテキストベース�
 
 * * *
 
+### [LGTM.in/g](http://www.lgtm.in)
+
 ![LGTM.in/g](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/lgtm.png)
 
 * * *
+
+### [EMOJI CHEAT SHEET](http://www.emoji-cheat-sheet.com)
 
 ![emoji-cheat-sheet](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/emoji.png)
 
 * * *
 
+### [tiqav](http://tiqav.com)
+
 ![tiqav](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/tiqav.png)
 
 * * *
+
+### [地獄のミサワの「女に惚れさす名言集」](http://jigokuno.com)
 
 ![地獄のミサワ](https://s3-ap-northeast-1.amazonaws.com/hz-git-seminar/misawa.png)
 
@@ -134,21 +142,17 @@ GitHubはIssueやPull Requests、コードレビューでテキストベース�
 
 # **Markup めんどくせえ**
 
-* * * 
-
-ってことかな・・・！
-
 * * *
 
 （ゴメンナサイ）
 
 * * *
 
-だけど
+だってね
 
 * * *
 
-# **Markdown は（そこそこ）めんどくないんです！**
+# **Markdown は（そこそこ）めんどくないんだもん！**
 
 * * *
 
@@ -190,7 +194,7 @@ GitHubはIssueやPull Requests、コードレビューでテキストベース�
 
 * * *
 
-# Ruffnote（ラフノート）
+# [Ruffnote](https://ruffnote.com)（ラフノート）
 
 みんなご存知・西小倉さんとこのサービス。社名も変わってます。
 
